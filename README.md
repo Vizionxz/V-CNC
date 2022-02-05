@@ -1,2 +1,2 @@
-# V-CNC
+Basic CNC made in V.
  

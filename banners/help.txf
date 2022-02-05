@@ -1,0 +1,8 @@
+          
+          
+      {red}     ╔═════════════════════════════╗ {reset}
+      {red}     ║{reset} methods {blue}-{reset} shows methods     {red}║{reset}
+      {red}     ║{reset} geoip {blue}-{reset} basic info about ip {red}║{reset}
+      {red}     ║{reset} attack {blue}-{reset} self explanatory   {red}║{reset}
+      {red}     ║{reset} clear {blue}-{reset} clears terminal     {red}║{reset}
+      {red}     ╚═════════════════════════════╝{reset}
